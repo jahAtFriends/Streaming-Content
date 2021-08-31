@@ -1,4 +1,4 @@
-# Streaming Contentf #
+# Streaming Content #
 
 In this project you will work to solve a famous puzzle abut random selection. Here's
 the puzzle:
