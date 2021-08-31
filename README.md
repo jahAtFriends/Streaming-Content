@@ -15,7 +15,7 @@ prbability of being selected. Your code should run as quickly as possible and us
 litle memory as possible.
 
 You can find starter code in this repository. Please submit your final work to
-GitHub classroom.
+GitHub classroom. To submit, simply update the code for `RandomStream.java`.
 
 This project will be worth **15 points** towards your final grade and is due by
 **Monday September 6 at 8:00 am**.
